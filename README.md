@@ -1,2 +1,2 @@
 # my-first-project
-第一个仓库
+This is an automated trading logging script for MT4.
